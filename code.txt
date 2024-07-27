@@ -1,0 +1,4 @@
+## In the terminal put the below code 
+
+ python detect.py --weights yolov5x.pt --source "object_dectection\sample video.mp4"  
+ --save-crop --project "object_dectection\output_folder"  --name "cropped_objects"
